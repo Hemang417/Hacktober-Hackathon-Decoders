@@ -265,7 +265,7 @@ a:hover {
   background-color: var(--bgSecondary);
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (m-width: 1000px) {
   .stats-container {
     flex-direction: column;
   }
@@ -380,4 +380,8 @@ a:hover {
   flex-direction: column;
   padding: 20px;
   align-items: center;
+}
+/*Aligning the Page*/
+.routes {
+  padding-left: 60px;
 }
