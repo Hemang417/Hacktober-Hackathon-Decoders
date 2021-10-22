@@ -42,12 +42,10 @@ a:hover {
   background-color: rgb(0, 21, 41);
   z-index: 999;
 }
-.heading {
-  margin-left: 10%;
+/* .heading {
 }
 .row {
-  margin-left: 10%;
-}
+} */
 .logo-container {
   background-color: #001529;
   display: flex;
@@ -348,7 +346,6 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   margin-top: 40px;
-  margin-left: 10%;
 }
 .show-more {
   margin-top: 0px !important;
