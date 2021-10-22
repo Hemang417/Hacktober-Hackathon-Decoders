@@ -10,21 +10,21 @@ const Navbar = () => {
             <div className="logo-container">
                 <Avatar src={icon} size="large"/>
                 <Typography.Title level={2} className="logo"> 
-                    <Link to="/">Cryptoverse</Link>
+                    <Link to="/"></Link>
                 </Typography.Title>
             </div>
             <Menu theme="dark">
                 <Menu.Item icon={<HomeOutlined />}>
-                    <Link to="/">Home</Link>
+                    <Link to="/"></Link>
                 </Menu.Item>
                 <Menu.Item icon={<FundOutlined />}>
-                    <Link to="/cryptocurrencies">Cryptocurrencies</Link>
+                    <Link to="/cryptocurrencies"></Link>
                 </Menu.Item>
                 <Menu.Item icon={<MoneyCollectOutlined />}>
-                    <Link to="/exchanges">Exchanges</Link>
+                    <Link to="/exchanges"></Link>
                 </Menu.Item>
                 <Menu.Item icon={<BulbOutlined />}>
-                    <Link to="/news">News</Link>
+                    <Link to="/news"></Link>
                 </Menu.Item>
             </Menu>
         </div>

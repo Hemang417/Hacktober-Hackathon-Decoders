@@ -37,21 +37,21 @@ a:hover {
 .nav-container {
   position: fixed;
   left: 0;
-  margin: 10px;
   height: 100vh;
   margin: 0px;
   background-color: rgb(0, 21, 41);
+  z-index: 999;
 }
 .heading {
-  margin-left: 20%;
+  margin-left: 10%;
 }
 .row {
-  margin-left: 20%;
+  margin-left: 10%;
 }
 .logo-container {
   background-color: #001529;
   display: flex;
-  padding: 20px;
+  padding: 0;
   align-items: center;
   width: 100%;
 }
@@ -348,6 +348,7 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   margin-top: 40px;
+  margin-left: 10%;
 }
 .show-more {
   margin-top: 0px !important;
