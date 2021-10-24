@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
-<h1 align="center"> KRYPTON </h1>
+<h1 align="center"> DotCoin </h1>
 
-An online money management system with the aim of making individuals more aware about their expenditures and also to show recent financial news with a stock of choice to overview on the glance. These are elaborated in the upcoming sections. <br>
+An online web portal to show recent financial news with a stock of choice to overview on the glance. These are elaborated in the upcoming sections. <br>
 Aimed to cater young individuals the mission is to make financial literacy, an important part in everyone's life a common place so that they are financially aware.
 
 <br/>
@@ -9,11 +9,11 @@ Aimed to cater young individuals the mission is to make financial literacy, an i
 <p align="center">
     <img src="src/Assets/img/kryptonlogo-removebg.png" width="60%">
   <p align="center">
-    <a href="https://krypton1.netlify.app/">View Demo</a>
+    <a href="https://dotcoin.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/Narottam04/Krypton/issues">Report Bug</a>
+    <a href="https://github.com/Hemang417/Hacktober-Hackathon-Decoders/bug">Report Bug</a>
     ·
-    <a href="https://github.com/Narottam04/Krypton/issues">Request Feature</a>
+    <a href="https:/Hemang417/Hacktober-Hackathon-Decoders/github.com//issues">Request Feature</a>
   </p>
 </p>
 
@@ -41,17 +41,14 @@ Strong financial knowledge and decision-making skills help people weigh options 
 
 While investing in stock markets has become more popular in recent times, overall penetration remains low — only 2.78 crore Indians invest in the stock markets, which is around 2% of the country’s population. In comparison, over 50% of Americans own stocks. This is a mind set that can be changes if people are exposed to topics like investments and stocks which is a great financial practice. 
 
-This is where Krypton comes in, to build a habit for being accountable for the income and expenses.
 
-Krypton provides a watch-list for stocks and also provides relevent financial news and insights so that they have a mind set of using money wisely.
+DotCoin provides a watch-list for stocks and also provides relevent financial news and insights so that they have a mind set of using money wisely.
 
 ## About the project
 
 <p align="center">
   <img src="src/Assets/img/readmeLaptop.png">
 <p align="center">
-    
-Krypton is an online money management system with the aim of making individuals aware about their expediture and make them financially sound by providing them with stock watchlists and news that is relevent to investing and financial advices. The following are the key-words used in our project:
 
 ### Personal Finance Management
 Having personal finances in-check is necessary and hence the there is a personal finance tracker which helps the user to keep a tab of their transactions, which is the first step towards financial growth and literacy.
