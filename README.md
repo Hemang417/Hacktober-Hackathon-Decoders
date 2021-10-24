@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1 align="center"> DotCoin </h1>
 
-An online web portal to show recent financial news with a stock of choice to overview on the glance. These are elaborated in the upcoming sections. <br>
-Aimed to cater young individuals the mission is to make financial literacy, an important part in everyone's life a common place so that they are financially aware.
+An online web portal to show recent financial news with a stock of choice to overview on the glance. These are elaborated in the upcoming sections. 
 
 <br/>
 
@@ -48,17 +47,12 @@ DotCoin provides a watch-list for stocks and also provides relevent financial ne
 
 <p align="center">
 
-### Personal Finance Management
-Having personal finances in-check is necessary and hence the there is a personal finance tracker which helps the user to keep a tab of their transactions, which is the first step towards financial growth and literacy.
       
-### Stock Overview
-Having the overview of the best performing stocks is a good practice as it improves the reasoning of why the stocks are moving the way they are and also understanding the sentiment of the market.
+### Crypto Overview
+Having the overview of the best performing Crypto Currency is a good practice as it improves the reasoning of why they are moving the way they are and also understanding the sentiment of the market.
       
 ### Financial News
 News plays a very important role in how people invest and why people invest.Financial news is the key to understanding the stock market sentiment and also making the users aware about the different changes and reforms happening globally.
-    
-### Investment Radar
-Showing an Investment Radar to keep a check on the trending stocks and to keep a tab on the recent changes is the best way to start on the investment path and this is provided on the dashboard as well as a dedicated stock insight tab.    
 
 ### Financial Knowledge
 Having personal finances in-check is necessary and hence the there is a personal finance tracker which helps the user to keep a tab of their transactions, which is the first step towards financial growth and literacy.    
@@ -69,11 +63,11 @@ A list of all the references and resources we used to achieve (partially) our go
 </p>
 
     
-React.js as the base library along with tailwind css<br/>
+React.js as the base library along with Ant Design<br/>
 Firebase for the authentication of the users so that every users information can be saved<br/>
 Heroku to host the react app <br/>
-Postman Api for financial news <br/>
-AlphaVantage for Stocks overview <br/>
+Bing News API for financial news <br/>
+Coinranking API for crypto currency overview <br/>
 
 
 ## How we built it
@@ -82,18 +76,17 @@ First we came up with a problem statement and started to design and prototype th
 
 Then we followed with building a basic prototype of all the features that can be included. 
 
-Then went with designing and developing UI using ReactJs & Tailwind CSS (with help of few resources mentioned in the last section). 
+Then went with designing and developing UI using ReactJs & Ant Design (with help of few resources mentioned in the last section). 
 
 
 ## Challenges we ran into
 
-The frontend developers were not familiar with tailwind CSS. So it took a while to build frontend and to polish it out.
+The frontend developers were not familiar with Ant Design. So it took a while to build frontend and to polish it out.
 
-This is our first time to integrate firebase authentication and different api's with a web application.
+This is our first time integrating different api's with a web application.
 
 We intially thought of making a flutter app but were not able to proceed due to lack of resources.
 
-Responsiveness was an issue which was solved. 
 
 ## What's next for DotCoin
 
@@ -102,9 +95,7 @@ Due to the time constraint of the hackathon, many things were accomplished only 
 - Unique Digital Cards: We are planning to build a feature where every user will be able to access a digital card that features all their acheivements
  based on their current and previous investments.
 
-- Goal Tracker: To add a roadmap so that, user can set a goal and track their progress of different investment.
-
-- More Investment Option: Currently we only have limited number of stocks and investments options and we intend to increase them by adding sections like mutual funds, bonds etc. 
+- More Investment Option: Currently we only have Crypto Currencies  and we intend to increase them by adding sections like investments options for buying and selling Crypto-Currency, mutual funds, bonds etc. 
 
 - More responsive & optimized UI
 
@@ -121,7 +112,7 @@ To install node@12.22.1
    ```
 Clone the repo
    ```sh
-   git clone https://github.com/Narottam04/HackNPitch_Decoders_Krypton.git
+   git clone https://github.com/Hemang417/Hacktober-Hackathon-Decoders.git
    ```
 Install NPM packages
    ```sh
@@ -134,7 +125,7 @@ Run the local server inside the client folder
 
 
 ## Acknowledgements and References
-* [AlphaVantage](https://www.alphavantage.co/) Stocks Api.
-* [PostmanApi](https://www.postman.com/product/api-repository/) News Api
-* [Freepik](https://www.freepik.com/) Illustrations
+* [Coinranking](https://www.alphavantage.co/) Coinranking API
+* [Bing News API](https://www.postman.com/product/api-repository/) Bing News API
+* [Ant Design](https://ant.design//) Ant Design
 
