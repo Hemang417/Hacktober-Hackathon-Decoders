@@ -95,7 +95,7 @@ We intially thought of making a flutter app but were not able to proceed due to 
 
 Responsiveness was an issue which was solved. 
 
-## What's next for Krypton
+## What's next for DotCoin
 
 Due to the time constraint of the hackathon, many things were accomplished only till half way. These include :
 
