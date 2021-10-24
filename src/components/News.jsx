@@ -1,6 +1,7 @@
 import React from 'react'
 import {Select, Typography, Row, Col, Avatar, Card} from 'antd';
 import moment from 'moment';
+import Loader from './Loader';
 
 import { useGetCryptoNewsQuery } from '../services/cryptoNewsApi';
 
@@ -12,7 +13,7 @@ const demoImage = 'https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=Ne
 const News = ({ simplified }) => {
     const { data: cryptoNews } = useGetCryptoNewsQuery({ newsCategory: 'Cryptocurrency', count: simplified ? 6 : 12 })
     
-if(!cryptoNews?.value) return 'Loading...';  
+if(!cryptoNews?.value) return <Loader />;  
 
 
     return (
