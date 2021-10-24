@@ -7,7 +7,7 @@ Aimed to cater young individuals the mission is to make financial literacy, an i
 <br/>
 
 <p align="center">
-    <img src="src/Assets/img/cryptocurrency.png" width="60%">
+    <img src="src/Assets/img/homeimage.jpg" width="60%">
   <p align="center">
     <a href="https://dotcoin.herokuapp.com/">View Demo</a>
     ·
@@ -47,8 +47,6 @@ DotCoin provides a watch-list for stocks and also provides relevent financial ne
 ## About the project
 
 <p align="center">
-  <img src="src/Assets/img/readmeLaptop.png">
-<p align="center">
 
 ### Personal Finance Management
 Having personal finances in-check is necessary and hence the there is a personal finance tracker which helps the user to keep a tab of their transactions, which is the first step towards financial growth and literacy.
@@ -67,21 +65,13 @@ Having personal finances in-check is necessary and hence the there is a personal
 
 
 A list of all the references and resources we used to achieve (partially) our goal are listed in the acknowledgements.
-## Technologies used
-    
-<p align="center" float="left">
-      
-<a href="https://www.react.org/"><img src="src/Assets/img/react.png"  width="10%" height="10%"></a>
-<a href="https://www.netlify.com/"><img src="src/Assets/img/netlify.png"  width="10%" height="10%"></a>
-<a href="https://firebase.google.com/"><img src="src/Assets/img/firebase.png"  width="10%" height="10%"></a>
-<a href="https://www.postman.com/product/api-repository/"><img src="src/Assets/img/postman.png"  width="10%" height="10%"></a>
-<a href="https://www.alphavantage.co/"><img src="src/Assets/img/alphavantage.png"  width="10%" height="10%"></a>                                                                                                 
+## Technologies used                                                                                             
 </p>
 
     
 React.js as the base library along with tailwind css<br/>
 Firebase for the authentication of the users so that every users information can be saved<br/>
-Netlify to host the react app <br/>
+Heroku to host the react app <br/>
 Postman Api for financial news <br/>
 AlphaVantage for Stocks overview <br/>
 
