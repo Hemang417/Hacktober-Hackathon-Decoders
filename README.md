@@ -7,7 +7,7 @@ Aimed to cater young individuals the mission is to make financial literacy, an i
 <br/>
 
 <p align="center">
-    <img src="src/Assets/img/homeimage.jpg" width="60%">
+    <img src="src/Assets/img/homeimage.jpeg" width="60%">
   <p align="center">
     <a href="https://dotcoin.herokuapp.com/">View Demo</a>
     ·
